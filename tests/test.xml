@@ -1,0 +1,16 @@
+<root>
+    <tag1 name="attr1" value="value1">
+        <child1 type1="type1" />
+        <child2 type2="type2" />
+    </tag1>
+    <tag2 name="attr2" value="value2">
+        <child3 type="type3" />
+    </tag2>
+    <tag3>
+        <child4 type="type4" />
+    </tag3>
+    <tag1 name="attr5" value="value5">
+        <child1 type1="type5" />
+        <child1 type2="type6" />
+    </tag1>
+</root>
